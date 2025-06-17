@@ -1,0 +1,15 @@
+# Core dependencies
+pandas
+tqdm
+
+# NLP libraries
+nltk
+flashtext
+transformers
+torch
+
+# Visualization (used in augmentation script)
+matplotlib
+
+# Optional: for Excel file support (if switching from CSV to .xlsx)
+openpyxl
