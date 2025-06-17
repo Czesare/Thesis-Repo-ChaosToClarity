@@ -1,0 +1,50 @@
+# Ticket Intelligence Notebooks
+
+This repository contains two Jupyter notebooks that demonstrate classification and clustering techniques applied to IT support tickets.
+
+## Notebooks Overview
+
+### 1. `ticket_classification.ipynb`
+Classifies support tickets into predefined issue types using both traditional and transformer-based methods.
+
+Included Models:
+- Logistic Regression (TF-IDF features)
+- XLM-RoBERTa (fine-tuned transformer)
+
+Visualizations and Metrics:
+- ROC and Precision-Recall curves
+- Feature importance bar charts
+- Calibration curves
+- Confusion matrices
+- Word clouds and misclassification examples
+
+### 2. `ticket_clustering.ipynb`
+Applies unsupervised clustering on ticket descriptions to explore potential grouping patterns.
+
+Clustering Techniques:
+- K-Means
+- Agglomerative Clustering
+
+Vector Representations:
+- TF-IDF (sparse lexical features)
+- MiniLM Embeddings (semantic vectors)
+
+Evaluations and Visuals:
+- Silhouette plots
+- UMAP and PCA projections
+- Word clouds
+- Intrinsic metrics (Silhouette, Calinski-Harabasz, Davies-Bouldin)
+- External metrics (ARI, Purity, Hungarian-aligned classification report)
+
+## Environment
+
+These notebooks are developed for:
+- Python 3.8
+- Azure ML (or any Jupyter-compatible environment)
+
+### Required Packages
+
+Install all dependencies via:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn umap-learn sentence-transformers
