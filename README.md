@@ -1,6 +1,6 @@
 # Thesis-results-ChaosToClarity : Evaluating Methods for Classifying Unstructured Ticket Data
 
-![Dataset structure diagram]([Image/From Chaos To Clarity - Thesis Project - Thibault Giesbertz.png](https://github.com/Czesare/Thesis-results-ChaosToClarity/blob/main/Image/From%20Chaos%20To%20Clarity%20-%20Thesis%20Project%20-%20Thibault%20Giesbertz.png)?raw=true)
+![Dataset structure diagram](https://github.com/Czesare/Thesis-results-ChaosToClarity/blob/main/Image/From%20Chaos%20To%20Clarity%20-%20Thesis%20Project%20-%20Thibault%20Giesbertz.png?raw=true)
 
 
 
