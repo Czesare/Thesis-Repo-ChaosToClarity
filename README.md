@@ -1,5 +1,9 @@
 # Thesis-results-ChaosToClarity : Evaluating Methods for Classifying Unstructured Ticket Data
 
+![Dataset structure diagram](Image/From Chaos To Clarity - Thesis Project - Thibault Giesbertz.png)
+
+
+
 This repository provides the full set of results and visualizations accompanying the BSc thesis “Classifying Helpdesk Tickets Under Low-Resource Conditions” (Vrije Universiteit Amsterdam, 2025). The research explores the effectiveness of supervised and unsupervised methods for categorizing unstructured helpdesk ticket data when only limited labeled data is available.
 
 Contents:
